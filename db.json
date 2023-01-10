@@ -1,0 +1,63 @@
+{
+  "projects": [
+    {
+      "name": "Pessoal",
+      "budget": "84000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 12
+    },
+    {
+      "name": "MotorHome",
+      "budget": "8000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 5200,
+      "services": [
+        {
+          "name": "Carro",
+          "cost": "4500",
+          "description": "Compra de carro usado",
+          "id": "fef6b4fd-817c-436e-87bf-8b39de9e60c1"
+        },
+        {
+          "name": "Sanita + Chuveiro",
+          "cost": "300",
+          "description": "Compra de vaso e chuveiro ",
+          "id": "740653cd-0c10-41e7-908b-50dc30be0501"
+        },
+        {
+          "name": "Fogão + Pia",
+          "cost": "400",
+          "description": "Aquisição de fogão e pia.",
+          "id": "8f8ae030-374c-4979-bfa5-5c89ed866a6b"
+        }
+      ],
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
