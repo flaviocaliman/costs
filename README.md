@@ -2,6 +2,8 @@
 
 <img src="/src/img/costs_home.png">
 
+**Costs é um aplicativo web para gerenciamento de custos de projetos. Foi desenvolvido em React como forma de aprendizado.** Professor: Matheus Battisti
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
