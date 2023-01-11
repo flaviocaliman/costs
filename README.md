@@ -4,6 +4,18 @@
 
 **Costs é um aplicativo web para gerenciamento de custos de projetos. Foi desenvolvido em React como forma de aprendizado.** Professor: Matheus Battisti
 
+## Instalação
+
+1. Instale o Node
+2. Clone este repositório
+3. Entre na pasta do repositório e execute pelo terminal:
+```
+npm install
+npm run backend
+npm start
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
